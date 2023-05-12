@@ -4,7 +4,7 @@ class Play extends Phaser.Scene {
     }
     preload() {
         this.load.image('background', './assets/background.png');
-        this.load.atlas('crabAtlas', './assets/crab.png', './assets/crab.json');
+        this.load.image('crab', './assets/crab.png');
         this.load.image('rock', './assets/rock.png');
         this.load.image('sand', './assets/sand.png');
         this.load.audio('music', './assets/music.wav');
