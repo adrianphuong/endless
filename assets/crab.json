@@ -1,0 +1,55 @@
+{
+	"frames": {
+		"crab.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 66,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 70
+			}
+		},
+		"crab2.png": {
+			"frame": {
+				"x": 69,
+				"y": 1,
+				"w": 93,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 93,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 93,
+				"h": 37
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 163,
+			"h": 72
+		},
+		"scale": "1"
+	}
+}
